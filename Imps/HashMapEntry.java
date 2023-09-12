@@ -1,9 +1,4 @@
-/**
- * From CSE017 lecture 10 slide deck;
- * 2023-06-27
- */
-
- public class HashMapEntry<K, V> {
+public class HashMapEntry<K, V> {
     private K key;
     private V value;
 
