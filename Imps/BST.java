@@ -1,6 +1,4 @@
-
-
- public class BST<E extends Comparable<E>> {
+public class BST<E extends Comparable<E>> {
     private TreeNode root;
     private int size;
 
