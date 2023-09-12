@@ -1,9 +1,6 @@
 import java.util.Iterator;
 
-/**
- * From CSE017 lecture 8 slide deck; 
- * corrections and improvements made during classtime on 2023-06-15
- */
+
 public class ArrayList<E> {
     // data members
     private E[] elements;
