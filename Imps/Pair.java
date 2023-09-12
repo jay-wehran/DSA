@@ -1,10 +1,5 @@
 import java.util.ArrayList;
 
-/**
- * Stephen Lee-Urban, sml3
- * From the cse017 slide deck 05 on Generics
- * 2023-06-07
- */
 public class Pair<E1, E2> {
     private E1 first;
     private E2 second;
