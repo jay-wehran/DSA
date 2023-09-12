@@ -1,8 +1,4 @@
 
-/**
- * From CSE017 lecture 10 slide deck; 
- * 2023-06-27
- */
 
  import java.util.ArrayList;
  import java.util.LinkedList;
