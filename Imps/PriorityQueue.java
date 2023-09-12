@@ -1,10 +1,5 @@
 import java.util.Comparator;
 
-/**
- * From CSE017 lecture 8 slide deck; 
- * corrections and improvements made during classtime on 2023-06-19
- */
-
 public class PriorityQueue<E> {
     private ArrayList<E> list;
     private Comparator<E> comparator;
