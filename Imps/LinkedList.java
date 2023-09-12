@@ -1,11 +1,6 @@
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
-/**
- * From CSE017 lecture 8 slide deck; 
- * corrections and improvements made during classtime on 2023-06-15
- */
-
 public class LinkedList<E> {
     // Data members
     private Node head, tail;
