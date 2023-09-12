@@ -1,10 +1,5 @@
 import java.util.ArrayList;
-/**
- * Class Sort contains five sorting algorithms as static methods
- * 
- * @author Houria Oudghiri
- *         Date of the creation: April 24, 2023
- */
+
 public class Sort {
     public static int iterations;
     /**
