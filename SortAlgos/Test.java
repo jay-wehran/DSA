@@ -1,8 +1,3 @@
-/**
- * Created By: Professor Udghiri
- * Date Modified: June 28, 2023
- * Modified by: Jason Wehran
- */
 import java.util.Collections;
 import java.util.ArrayList;
 
