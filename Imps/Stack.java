@@ -1,9 +1,6 @@
 import java.util.ArrayList;
 import java.util.EmptyStackException;
-/**
- * From CSE017 lecture 8 slide deck; 
- * corrections and improvements made during classtime on 2023-06-15
- */
+
 public class Stack<E> {
     private ArrayList<E> elements;
 
