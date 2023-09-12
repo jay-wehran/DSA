@@ -1,10 +1,4 @@
-
-/**
- * From CSE017 lecture 9 slide deck; MAX heap.
- * corrections and improvements made during classtime on 2023-06-22
- */
-
- public class Heap<E extends Comparable<E>> {
+public class Heap<E extends Comparable<E>> {
     private ArrayList<E> list;
 
     public Heap() {
