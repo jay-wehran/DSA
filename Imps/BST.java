@@ -1,7 +1,4 @@
-/**
- * From CSE017 lecture 9 slide deck; 
- * 2023-06-21
- */
+
 
  public class BST<E extends Comparable<E>> {
     private TreeNode root;
