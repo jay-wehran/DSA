@@ -1,9 +1,4 @@
-/**
- * From CSE017 lecture 8 slide deck; 
- * corrections and improvements made during classtime on 2023-06-19
- */
-
- public class Queue<E> {
+public class Queue<E> {
     private LinkedList<E> list;
 
     // O(1)
